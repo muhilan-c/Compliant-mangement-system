@@ -1,5 +1,5 @@
-﻿# Campus-ManageMent-System
-The Campus Management System is a comprehensive web-based solution designed to tackle the complexities of real-time coordination and task management within a campus environment. Its core objective is to streamline campus facility management, enhancing the experience for both students and administrators.
+﻿# Compliant-ManageMent-System
+The Complaint Management System is a comprehensive web-based solution designed to tackle the complexities of real-time coordination and task management within a campus environment. Its core objective is to streamline campus facility management, enhancing the experience for both students and administrators.
 
 ### Features
 
